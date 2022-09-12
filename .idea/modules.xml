@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GuessTheWord-Starter.iml" filepath="$PROJECT_DIR$/.idea/modules/GuessTheWord-Starter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GuessTheWord-Starter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GuessTheWord-Starter.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GuessTheWord-Starter.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GuessTheWord-Starter.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GuessTheWord-Starter.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GuessTheWord-Starter.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GuessTheWord-Starter.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GuessTheWord-Starter.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/viewmodel11am.iml" filepath="$PROJECT_DIR$/.idea/modules/viewmodel11am.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/viewmodel11am.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/viewmodel11am.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/viewmodel11am.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/viewmodel11am.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/viewmodel11am.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/viewmodel11am.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/viewmodel11am.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/viewmodel11am.app.unitTest.iml" />
     </modules>
   </component>
 </project>
